@@ -21,23 +21,7 @@ colaboração, segurança e proteção de informações.
 - Microsoft Purview
 - Microsoft Graph
 - PowerShell
-
-## Arquitetura
-
-[diagrama futuramente]
-
-## Implementação
-
-- [ ] Fundação
-- [ ] Microsoft Entra ID
-- [ ] Exchange Online
-- [ ] SharePoint Online
-- [ ] Microsoft Teams
-- [ ] Microsoft Intune
-- [ ] Segurança
-- [ ] Microsoft Purview
-- [ ] Laboratórios avançados
-
+  
 ## Objetivo profissional
 
 Este laboratório foi desenvolvido para aprofundar conhecimentos
