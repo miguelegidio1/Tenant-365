@@ -28,29 +28,21 @@ Este laboratório foi desenvolvido para aprofundar conhecimentos
 práticos em administração de ambientes Microsoft 365, identidade,
 segurança, gerenciamento de dispositivos e serviços em nuvem.
 
-##Etapa 1 - Criar o Tenant
+## Etapa 1 - Criar o Tenant
 
-Acesse:
+Acesse: admin.microsoft.com
 
-admin.microsoft.com
-
-Clique em:
-
-Iniciar avaliação gratuita
+Clique em: Iniciar avaliação gratuita
 Ou criar uma assinatura Microsoft 365 Developer (se disponível)
 
 Defina:
-
 Nome da empresa
 País
 Domínio inicial
 
-Exemplo:
+Exemplo: empresa365.onmicrosoft.com
 
-empresa365.onmicrosoft.com
-
-Crie uma conta Global Administrator:
-admin@empresa365.onmicrosoft.com
+Crie uma conta Global Administrator: admin@empresa365.onmicrosoft.com
 
 Anote:
 Usuário
