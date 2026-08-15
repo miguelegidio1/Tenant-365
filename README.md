@@ -30,21 +30,3 @@ segurança, gerenciamento de dispositivos e serviços em nuvem.
 
 ## Etapa 1 - Criar o Tenant
 
-Acesse: admin.microsoft.com
-
-Clique em: Iniciar avaliação gratuita
-Ou criar uma assinatura Microsoft 365 Developer (se disponível)
-
-Defina:
-Nome da empresa
-País
-Domínio inicial
-
-Exemplo: empresa365.onmicrosoft.com
-
-Crie uma conta Global Administrator: admin@empresa365.onmicrosoft.com
-
-Anote:
-Usuário
-Senha
-Tenant ID
